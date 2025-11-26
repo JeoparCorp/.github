@@ -68,7 +68,7 @@ Our catalog is continually expanding as J² evolves and new cognitive modules ar
 Stay updated on developments, releases, and research:
 
 - **Website:** https://jeopar-dize.com 
-- **GitHub:** github.com/JeoparDIZe  
+- **GitHub:** https://github.com/JeoparCorp
 - **Email:** contact@jeopardize.com
 
 ---
