@@ -1,29 +1,27 @@
-# Welcome to JeoparDIZe!
+# Welcome to JeoparDIZe
 
-At **JeoparDIZe**, we are pioneering the next generation of **Cognitive Operations (CognOps)** — a new class of AI systems designed to understand how organizations think, work, and make decisions.  
+At **JeoparDIZe**, we are pioneering the next generation of **Cognitive Operations** — a new class of AI systems designed to understand how organizations think, work, and make decisions.  
 Our mission is to build intelligent co-mentors that reflect team behavior, reduce coordination debt, and empower people to operate at their highest level.
-
-This GitHub organization hosts the open-source components, research artifacts, tools, and frameworks that support **Jeopar 1.0**, our first generation Cognitive Reflection Engine.
 
 ---
 
-## 🧠 What We Build
+## What We Build
 
 Our contributions bridge the gap between organizational psychology, cognitive modeling, and applied machine learning.  
 We focus on creating tools that help teams gain clarity, context, and cognitive alignment.
 
 Our work includes:
 
-- **The Jeopar Cognitive Reflection Engine (CRE)**  
+- **The Jeopar Cognitive Reflection Engine**  
   A multimodal AI system that models team behavior, decision patterns, and workflow signals to generate reflective insights.
 
 - **Dynamic Dashboards & Behavioral Analytics**  
   Adaptive interfaces that visualize cognitive states, focus areas, and improvement paths personalized for each role.
 
-- **JeoProduct Mentor**  
+- **J² Mentor**  
   A role-aware AI co-pilot trained from team behavior, capable of providing guidance, summaries, and cognitive suggestions.
 
-- **Voice Cast Engine**  
+- **J² Pulse**  
   A lightweight audio/video generator that delivers daily “JeoNews” briefings — like a personal business reporter for your team.
 
 - **Learning Loop Frameworks**  
@@ -31,9 +29,9 @@ Our work includes:
 
 ---
 
-## 🔍 Featured Components
+## Featured Components
 
-### **1. Jeopar 1.0 — Cognitive Reflection Engine**
+### 1. J²— Cognitive Reflection Engine 
 Our flagship engine uses graph modeling and transformer-based inference to compute organizational reflections, including:
 
 - Behavioral similarity
@@ -42,16 +40,16 @@ Our flagship engine uses graph modeling and transformer-based inference to compu
 - Alignment & overload estimation
 - Next-best-action predictions
 
-### **2. Dynamic Dashboard SDK**
+### 2.  J² Base
 A modular library for building adaptive dashboards powered by Jeopar data models.  
 Includes visual components, widget templates, and example integrations.
 
-### **3. Voice Cast Generator**
+### 3. J² Pulse 
 A lightweight service that converts strategic updates, reflections, or summaries into shareable audio/video capsules.
 
 ---
 
-## 📚 Explore Our Implementation Catalog
+## Explore Our Implementation Catalog
 
 Browse our evolving catalog of JeoparDIZe components and research-driven implementations.  
 Each entry includes:
@@ -62,46 +60,16 @@ Each entry includes:
 - Example outputs  
 - Research references  
 
-Our catalog is continually expanding as Jeopar 1.0 evolves and new cognitive modules are released.
+Our catalog is continually expanding as J² evolves and new cognitive modules are released.
 
----
 
-## 🌍 Why Open Source?
-
-We believe that Cognitive Operations should be transparent, ethical, and grounded in research.
-
-By sharing our tools, we aim to:
-
-- **Advance Cognitive AI Adoption**  
-  Make cognitive modeling approachable for organizations of all sizes.
-
-- **Enable Collaboration**  
-  Connect engineers, researchers, and product leaders to co-create next-gen intelligence systems.
-
-- **Promote Responsible AI**  
-  Ensure that reflective intelligence systems are interpretable, secure, and aligned with human values.
-
----
-
-## 🤝 Get Involved
-
-Whether you’re a product manager, AI researcher, or engineer, we welcome your contributions.
-
-You can:
-
-- **Explore our repositories** to understand Jeopar’s modular architecture.
-- **Submit issues or feature requests** to help shape Jeopar 1.0.
-- **Collaborate with us** on new cognitive modules, datasets, or role-based mentor models.
-
----
-
-## 🔗 Connect With Us
+## Connect With Us
 
 Stay updated on developments, releases, and research:
 
-- **Website:** jeopar.com *(placeholder — update to final domain)*  
+- **Website:** https://jeopar-dize.com 
 - **GitHub:** github.com/JeoparDIZe  
-- **Email:** info@jeopardize.ai *(placeholder)*
+- **Email:** contact@jeopardize.com
 
 ---
 
