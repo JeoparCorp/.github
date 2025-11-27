@@ -69,7 +69,7 @@ Stay updated on developments, releases, and research:
 
 - **Website:** https://jeopar-dize.com 
 - **GitHub:** https://github.com/JeoparCorp
-- **Email:** contact@jeopardize.com
+- **Email:** contact@jeopar-dize.com
 
 ---
 
